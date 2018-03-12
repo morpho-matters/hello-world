@@ -1,2 +1,3 @@
 # hello-world
-github test
+
+This is just the hello-world tutorial for github.
