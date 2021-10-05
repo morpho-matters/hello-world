@@ -10,5 +10,5 @@ Fake information about the first guide
 Video (max-width 450):
 
 <video controls loop style="max-width:450px">
-<source src="https://github.com/morpho-matters/hello-world/blob/master/media/epicycle.mp4" type="video/mp4">
+<source src="https://raw.githubusercontent.com/morpho-matters/hello-world/master/media/epicycle.mp4" type="video/mp4">
 </video>
