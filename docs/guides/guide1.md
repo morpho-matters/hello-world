@@ -3,7 +3,7 @@ layout: default
 title: Guide 1
 ---
 
-<link rel="stylesheet" type="text/css" href="../style/custom.css" />
+<link rel="stylesheet" type="text/css" href="../_style/custom.css" />
 
 # Getting Started
 
